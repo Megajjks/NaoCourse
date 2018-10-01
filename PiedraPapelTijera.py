@@ -1,6 +1,7 @@
 # -*- encoding: UTF-8 -*-
 #Piedra, papel o tijera
 #By Jayro
+#prueba de commits
 
 from random import choice
 
